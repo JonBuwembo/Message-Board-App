@@ -10,6 +10,6 @@ Features
 Tech Stack
     Backend: Django (Python)
 
-    Frontend: HTML, CSS, JavaScript (optional for dynamic updates)
+    Frontend: HTML, CSS, JavaScript 
 
     Database: SQLite 
