@@ -8,8 +8,6 @@ Features
     Interactive UI – Responsive frontend for smooth user experience.
 
 Tech Stack
-    Backend: Django (Python)
-
-    Frontend: HTML, CSS, JavaScript 
+    Backend: Django (Python) 
 
     Database: SQLite 
