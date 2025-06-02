@@ -9,5 +9,5 @@ Features
 
 Tech Stack
     Backend: Django (Python) 
-
+    Frontend: HTML
     Database: SQLite 
